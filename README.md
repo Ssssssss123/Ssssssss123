@@ -22,7 +22,7 @@ css代码确实很乱(ಡωಡ)，简单改了一下，电脑和手机都可以�
 #### 修改密码
  在当前目录下，有js/index.js文件：
  ```javascript
- //修改此处的丽,美即可修改登录的用户名和密码
+ //修改此处的123,123即可修改登录的用户名和密码
  if(userName=="123" &&  pwd=="123"){
    event.preventDefault();
    $('form').fadeOut(500);
@@ -43,17 +43,12 @@ css代码确实很乱(ಡωಡ)，简单改了一下，电脑和手机都可以�
     <div class="ly-box21">
         <div class="ly-txt21">
             <!-- 这里更改日期 -->
-            2021-10-18
+            201X-1X-2X
         </div>
         <div class="ly-txt22">
           <!-- 这里更改内容，段落、换行用<p></p>包裹起来 -->
-           <p> 丽，生日快乐！生日快乐！生日快乐！>
-           <p>亲爱的丽,
-        花开一季，有落红为证，
-        逝去的岁月，如何能托于烟尘,
-        对于你的美丽，我总结了一下六点,
-        ......,
-       </p>
+           <p> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+           <p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
         </div>
         <div class="ly-imgbox21">
           <!-- 这里更改图片，图片请先改好对应的名字并且放到img文件夹下面
@@ -70,9 +65,7 @@ css代码确实很乱(ಡωಡ)，简单改了一下，电脑和手机都可以�
             201X-1X-1X
         </div>
         <div class="ly-txt24">
-             不知不觉，丽酱又大了一岁,
-        喜欢丽的时间又长了一年,
-      
+            XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
         </div>
         <div class="ly-imgbox22">
           <img class="ly-img22" src="img/2014.12.19-1.png">
@@ -85,9 +78,7 @@ css代码确实很乱(ಡωಡ)，简单改了一下，电脑和手机都可以�
             201X-1X-2X
         </div>
         <div class="ly-txt26">
-             在外面照顾好自己，友谊万岁！
-        下次再见面，不醉不归，期待相见！
-        丽，生日快乐！！！
+            XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
         </div>
         <div class="ly-imgbox23">
           <img class="ly-img23" src="img/2014.12.20-1.jpg">
